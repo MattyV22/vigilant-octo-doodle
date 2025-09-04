@@ -5,3 +5,5 @@ i had to access the metadata within my bucket and configure from text/plain to t
 i added text/html, opened the URL linked and boom the web page rendered 
 i also lenrt that amazon s3 looks for index.html by defaul as the home page so someone where along my learning i missed that important key
 all steps in the video were easy to follow but i enmcountered this issue where it was only in Raw html.
+
+One day i will create my own step by step and paste it beleow 
